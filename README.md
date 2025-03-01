@@ -1,5 +1,5 @@
 # GitHub_repo_generator_GUI
-this tool code is owned and created by https://github.com/Shpota
+This tool's core code is owned and created by https://github.com/Shpota
 
 # **Git Repository Generator Tool - User Guide**
 
