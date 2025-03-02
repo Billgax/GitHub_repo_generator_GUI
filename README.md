@@ -2,7 +2,6 @@
 This tool's core code is owned and created by https://github.com/Shpota
 
  
-### **📌 Steps to Upload Your `.exe` File and Edit `README.md` on GitHub**  
 
 #### **✅ 1. Move the `.exe` File to Your Project Folder**  
 - Go to your **`dist/`** folder.  
