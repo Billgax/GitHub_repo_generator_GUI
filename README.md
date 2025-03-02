@@ -2,22 +2,6 @@
 This tool's core code is owned and created by https://github.com/Shpota
 
  
-
-#### **✅ 1. Move the `.exe` File to Your Project Folder**  
-- Go to your **`dist/`** folder.  
-- Copy **your `.exe` file`** (e.g., `GitRepoGenerator.exe`).  
-- Paste it into your **GitHub project folder** (where your `.py` files are).  
-
-#### **✅ 2. Edit `README.md`**  
-- Open the `README.md` file in a text editor (or create one if it doesn’t exist).  
-- Add details like:  
-  - How to use the `.exe`  
-  - Requirements (e.g., **Git must be installed**)  
-  - Installation steps  
-
-Here’s an example of what you can add to `README.md`:  
-
-```md
 # Git Repository Generator
 
 A simple GUI tool to generate Git repositories with automated commit history.
@@ -44,30 +28,3 @@ A simple GUI tool to generate Git repositories with automated commit history.
    ```sh
    git clone https://github.com/yourusername/yourrepo.git
    cd yourrepo
-   ```
-3. Install dependencies:
-   ```sh
-   pip install tk
-   ```
-4. Run the script:
-   ```sh
-   python git_repo_gui.py
-   ```
-
-## 🛠 Requirements
-- Windows OS
-- **Git** installed and available in the system PATH
-
-## 📜 License
-This project is open-source and free to use.
-```
-
-#### **✅ 3. Upload Everything to GitHub**
-1. **Open Command Prompt** in your project folder.  
-2. Run the following commands:  
-
-   ```sh
-   git add GitRepoGenerator.exe README.md
-   git commit -m "Added executable and updated README"
-   git push origin main
-   ```
